@@ -26,3 +26,8 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/rluders/angular-skeleton/badge.svg?style=beer-square)](https://beerpay.io/rluders/angular-skeleton)  [![Beerpay](https://beerpay.io/rluders/angular-skeleton/make-wish.svg?style=flat-square)](https://beerpay.io/rluders/angular-skeleton?focus=wish)
